@@ -17,10 +17,10 @@ This is a TCP-based Rock-Paper-Scissors Game that allows players from both sides
 
 
 ## Use
-* ```bash Python Server.py```
+* ``` Python Server.py```
     start Runs the project with Server and serves it on localhost:8008
     **You will need to change the server address in both server.py and client_net.py to be the IPV4 address of your machine or the server ip you'll be using.**
-* ```bashPython Main.py```
+* ```Python Main.py```
     start Runs the Rock-Paper-Scissors Game to Play
 
 
